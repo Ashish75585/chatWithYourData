@@ -132,6 +132,7 @@ You can Directly Upload a saved vector store.
 ## Test My Application
 
 [Test my application](https://chatwithyourdata-tzsckgsmsp5jz6ch6ervfm.streamlit.app/)
+You can use `NLP.txt` and/or `langchain.txt` present in repo as data file.
 
 
 ## Acknowledgments
