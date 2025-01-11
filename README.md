@@ -97,31 +97,30 @@ Copy code
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/chat-with-your-data.git
-Navigate to the project directory:
-bash
-Copy code
+2. Navigate to the project directory:
+```bash
 cd chat-with-your-data
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Set up environment variables:
-Create a .env file with the following variables:
-env
-Copy code
-OPENAI_API_KEY=your_openai_api_key
-COHERE_API_KEY=your_cohere_api_key
-HF_API_KEY=your_huggingface_api_key
-Run the application:
-bash
-Copy code
-streamlit run main.py
 
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+
+4. Run the application:
+```bash
+streamlit run main.py
+```
 ## Usage
 After Running the app.
 1. **Select LLM Provider:** Choose between OpenAI, Hugging Face.(You will need API key)
-2. **Upload Data:** Upload documents in supported formats.(TXT or CSV)
-3. 
+2. **Select the Retrievers:**
+      -  Cohere reranker(You will need API key)
+      -  Contextual Compression
+      -  Vectorstore Backed Retriever
+4. **Upload Data:** Upload documents in supported formats.(TXT or CSV)
+5. **Provide a vector store name**: e.g. (`vector`, `vectorstore`, `vectordb` etc.)
+6. Click on **Click VectorStore**
+
+**Now you can chat with your data.**
 
 
 
