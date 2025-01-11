@@ -1,0 +1,20 @@
+LangChain is an open-source framework designed to simplify the creation of applications using large language models (LLMs). It provides a standard interface for chains, lots of integrations with other tools, and end-to-end chains for common applications. It allows AI developers to develop applications based on the combined Large Language Models (LLMs) such as GPT-4 with external sources of computation and data. This framework comes with a package for both Python and JavaScript.
+
+LangChain follows a general pipeline where a user asks a question to the language model where the vector representation of the question is used to do a similarity search in the vector database and the relevant information is fetched from the vector database and the response is later fed to the language model. further, the language model generates an answer or takes an action.
+
+Applications:
+Document analysis and summarization
+Chatbots: LangChain can be used to build chatbots that interact with users naturally. For example, LangChain can be used to build a chatbot that can answer client questions, provide customer assistance, and even arrange appointments.
+Code analysis: LangChain can be used to analyse code and find potential bugs or security flaws.
+Answering questions using sources: LangChain can be used to answer questions using a variety of sources, including text, code, and data. For example, LangChain can be used to answer questions about a specific topic by searching through a variety of sources, such as Wikipedia, news articles, and code repositories.
+Data augmentation: LangChain can be used to augment data by generating new data that is similar to existing data. For example, LangChain can be used to generate new text data that is similar to existing text data. This can be useful for training machine learning models or for creating new datasets.
+Text classification: LangChain can be used for text classifications and sentiment analysis with the text input data
+Text summarization: LangChain can be used to summarize the text in the specified number of words or sentences.
+Machine translation: LangChain can be used to translate the input text data into different languages.
+
+Langchain key concepts:
+The main properties of LangChain Framework are :
+
+Components: Components are modular building blocks that are ready and easy to use to build powerful applications. Components include LLM Wrappers, Prompt Template and Indexes for relevant information retrieval.
+Chains: Chains allow us to combine multiple components together to solve a specific task. Chains make it easy for the implementation of complex applications by making it more modular and simple to debug and maintain.
+Agents: Agents allow LLMs to interact with their environment. For example, using an external API to perform a specific action.
