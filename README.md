@@ -22,7 +22,7 @@
 - **Backend**: Python (LangChain Framework)
 - **LLM Integration**: OpenAI, Hugging Face, Cohere
 - **Vector Store**: ChromaDB
-- **Deployment**: Local or Cloud-based (e.g., AWS, GCP)
+- **Deployment**: Streamlit Cloud
 
 ---
 
@@ -80,7 +80,7 @@ Copy code
 - **Backend**: Python (LangChain Framework)
 - **LLM Integration**: OpenAI, Hugging Face, Cohere
 - **Vector Store**: ChromaDB
-- **Deployment**: Local or Cloud-based (e.g., AWS, GCP)
+- **Deployment**: Streamlit Cloud
 
 ---
 
@@ -131,7 +131,7 @@ You can Directly Upload a saved vector store.
 
 ## Test My Application
 
-[Test my application](https://chatwithyourdata-tzsckgsmsp5jz6ch6ervfm.streamlit.app/)
+[Test my application](https://chatwithyourdata-tzsckgsmsp5jz6ch6ervfm.streamlit.app/)  
 You can use `NLP.txt` and/or `langchain.txt` present in repo as data file.
 
 
