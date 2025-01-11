@@ -7,3 +7,4 @@ openai
 huggingface-hub
 streamlit
 pysqlite3-binary
+tk
