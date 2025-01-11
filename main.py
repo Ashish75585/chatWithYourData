@@ -602,9 +602,9 @@ def chain_RAG_blocks():
                             temp_file_path = os.path.join(
                                 TMP_DIR.as_posix(), uploaded_file.name
                             )
-                            # extra, since windows uses different format for searching locations.
-                            temp_file_path = temp_file_path.replace("/", "\\")
-                            # #################################################################
+                            # # extra, since windows uses different format for searching locations.
+                            # temp_file_path = temp_file_path.replace("/", "\\")
+                            # # #################################################################
                             with open(temp_file_path, "wb") as temp_file:
                                 temp_file.write(uploaded_file.read())
                         except Exception as e:
