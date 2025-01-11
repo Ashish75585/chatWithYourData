@@ -225,7 +225,7 @@ def sidebar_and_documentChooser():
         st.session_state.uploaded_file_list = st.file_uploader(
             label="**Select documents**",
             accept_multiple_files=True,
-            type=(["pdf", "txt", "csv"]),
+            type=(["txt", "csv"]),
         )
         # 2. Process documents
         st.session_state.vector_store_name = st.text_input(
