@@ -240,18 +240,11 @@ def sidebar_and_documentChooser():
 
     with tab_open_vectorstore:
         # Open a saved Vectorstore
-        # https://github.com/streamlit/streamlit/issues/1019
         st.write("Please select a Vectorstore:")
-        import tkinter as tk
-        from tkinter import filedialog
-
+        
         clicked = st.button("Vectorstore chooser")
-        root = tk.Tk()
-        root.withdraw()
-        root.wm_attributes("-topmost", 1)  # Make dialog appear on top of other windows
-
         st.session_state.selected_vectorstore_name = ""
-
+    
         if clicked:
             # Check inputs
             error_messages = []
@@ -262,13 +255,13 @@ def sidebar_and_documentChooser():
                 error_messages.append(
                     f"insert your {st.session_state.LLM_provider} API key"
                 )
-
+    
             if (
                 st.session_state.retriever_type == list_retriever_types[0]
                 and not st.session_state.cohere_api_key
             ):
                 error_messages.append(f"insert your Cohere API key")
-
+    
             if len(error_messages) == 1:
                 st.session_state.error_message = "Please " + error_messages[0] + "."
                 st.warning(st.session_state.error_message)
@@ -281,27 +274,28 @@ def sidebar_and_documentChooser():
                     + "."
                 )
                 st.warning(st.session_state.error_message)
-
-            # if API keys are inserted, start loading Chroma index, then create retriever and ConversationalRetrievalChain
+    
+            # Use Streamlit's text input to get the directory path
             else:
-                selected_vectorstore_path = filedialog.askdirectory(master=root)
-
-                if selected_vectorstore_path == "":
-                    st.info("Please select a valid path.")
-
+                selected_vectorstore_path = st.text_input(
+                    "Enter the full path to the Vectorstore directory:"
+                )
+    
+                if not selected_vectorstore_path:
+                    st.info("Please provide a valid path.")
                 else:
                     with st.spinner("Loading vectorstore..."):
                         st.session_state.selected_vectorstore_name = (
                             selected_vectorstore_path.split("/")[-1]
                         )
                         try:
-                            # 1. load Chroma vectorestore
+                            # 1. load Chroma vectorstore
                             embeddings = select_embeddings_model()
                             st.session_state.vector_store = Chroma(
                                 embedding_function=embeddings,
                                 persist_directory=selected_vectorstore_path,
                             )
-
+    
                             # 2. create retriever
                             st.session_state.retriever = create_retriever(
                                 vector_store=st.session_state.vector_store,
@@ -314,7 +308,7 @@ def sidebar_and_documentChooser():
                                 cohere_model="rerank-multilingual-v2.0",
                                 cohere_top_n=10,
                             )
-
+    
                             # 3. create memory and ConversationalRetrievalChain
                             (
                                 st.session_state.chain,
@@ -324,14 +318,14 @@ def sidebar_and_documentChooser():
                                 chain_type="stuff",
                                 language=st.session_state.assistant_language,
                             )
-
+    
                             # 4. clear chat_history
                             clear_chat_history()
-
+    
                             st.info(
                                 f"**{st.session_state.selected_vectorstore_name}** is loaded successfully."
                             )
-
+    
                         except Exception as e:
                             st.error(e)
 
