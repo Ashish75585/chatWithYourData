@@ -111,6 +111,7 @@ streamlit run main.py
 ```
 ## Usage
 After Running the app.
+### Create a Vector Store
 1. **Select LLM Provider:** Choose between OpenAI, Hugging Face.(You will need API key)
 2. **Select the Retrievers:**
       -  Cohere reranker(You will need API key)
@@ -119,6 +120,11 @@ After Running the app.
 4. **Upload Data:** Upload documents in supported formats.(TXT or CSV)
 5. **Provide a vector store name**: e.g. (`vector`, `vectorstore`, `vectordb` etc.)
 6. Click on **Click VectorStore**
+
+**OR**
+
+### Open a saved VectorStore.
+You can Directly Upload a saved vector store.
 
 **Now you can chat with your data.**
 
