@@ -129,5 +129,15 @@ You can Directly Upload a saved vector store.
 **Now you can chat with your data.**
 
 
+## Test My Application
 
+[Test my application](https://chatwithyourdata-tzsckgsmsp5jz6ch6ervfm.streamlit.app/)
+
+
+## Acknowledgments
+- [Streamlit](https://streamlit.io/) for the interactive interface.
+- [OpenAI](https://openai.com/), [Hugging Face](https://huggingface.co/), and [Cohere](https://cohere.com/
+) for LLM support.
+- [LangChain](https://www.langchain.com/) for modular framework integration.
+- [Ala Eddine GRINE](https://medium.com/thedeephub/rag-chatbot-powered-by-langchain-openai-google-generative-ai-and-hugging-face-apis-6a9b9d7d59db): Special thanks for the inspiration and guidance provided through his GitHub repository and Medium blog.
    
