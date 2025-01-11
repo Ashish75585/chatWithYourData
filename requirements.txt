@@ -1,0 +1,11 @@
+os
+glob
+pathlib
+langchain
+langchain-openai
+langchain-community
+langchain-core
+openai
+huggingface-hub
+streamlit
+pysqlite3-binary

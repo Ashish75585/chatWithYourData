@@ -1,0 +1,55 @@
+Title: AMD unveils new chips for laptops, desktops, and gaming handhelds at CES 2025
+Description: At CES 2025 in Las Vegas, AMD unveiled a slew of new chips destined for devices ranging from desktops to gaming handhelds.
+AMD is riding high coming into this year’s CES. The company commanded a 28.7% share of the desktop CPU segment in Q3 2024, up 9.6 percentage points compared to the same quarter the year prior. In mobile, AMD held 22.3% of the chip market as of last Q3, a 2.8-percentage-point uptick from the previous fiscal period.
+The company isn’t resting on its laurels, though. AMD’s 2025 strategy is aggressive and multipronged — and it begins with the Ryzen 9 9950X3D.
+Aimed at “gamers and creators,” the 9950X3D has 16 cores based on AMD’s Zen 5 architecture clocked up to 5.7GHz. According to the company’s benchmarks, the 9950X3D is 8% faster on average in popular games like Hogwarts Legacy and Starfield versus AMD’s 7950X3D.
+URL: https://techcrunch.com/2025/01/06/amd-unveils-new-chips-for-laptops-desktops-and-gaming-handhelds/
+
+
+Title: SteamOS expands to other gaming handhelds with the Lenovo Legion Go S
+Description: SteamOS is slowly becoming an alternative to Windows for handheld gaming devices. After launching the Steam Deck with SteamOS, its own operating system, Valve is now partnering with third-party manufacturers so that they can release gaming handhelds with SteamOS support.
+On Tuesday, Lenovo unveiled the Legion Go S at CES 2025. Unlike its predecessor, the Legion Go, this gaming handheld has a more traditional form-factor with a large, 8-inch display surrounded by controllers on each side of the screen. The detachable controllers and the kickstand at the back of the device are gone.
+But the most interesting part of the device is that it comes in multiple configurations. Customers will be able to decide between two AMD chipsets: the newly announced budget processor Ryzen Z2 Go, and the Ryzen Z1 Extreme that Lenovo is already using for the Legion Go. Asus is also using the Z1 Extreme for the ROG Ally X.
+Similarly, customers will get to decide whether they want to buy the Legion Go S with SteamOS pre-installed or Windows 11. While SteamOS is a much better experience for a gaming handheld with a better interface, a better out-of-the-box experience, and better support for sleep/wake, some customers might prefer Windows if they download games through Xbox Game Pass or if their favorite multiplayer game relies on Windows-only anti-cheat software.
+The Z2 Go version will be available for $599 with Windows 11, or $499 with SteamOS, while the Z1 Extreme variant will cost $729. Lenovo is releasing the Z1 Extreme version in January, while the Z2 Go configurations will be available in May 2025. The entry-level device will come with 16GB of RAM, while the $729 one features 32GB of RAM.
+When it comes to specifications, the 8-inch display has a 16:10 aspect ratio and supports resolutions of up to 1920×1200 with a 120Hz variable refresh rate. The Legion Go S comes with a 55Wh battery, two USB 4 ports and a microSD slot. The device weighs 730g (1.61 pounds) and comes with an extremely tiny touchpad to navigate the desktop interface.
+Lenovo also plans to update the original Legion Go, and it even showcased an early prototype of the Legion Go 2 at CES 2025. The idea is that the Legion Go S and the Legion Go will be two separate products that will be updated every now and then.
+While you could consider the Legion Go S as a Steam Deck competitor, remember that Valve has collaborated with Lenovo to tweak SteamOS for the new machine. Valve takes a cut on every Steam purchase, and the company seems to think that it’s more important to grow the Steam ecosystem than become the next big console maker.
+Attendees walk under and pose in front of a CES sign during CES 2024 at the Las Vegas Convention Center.
+URL: https://techcrunch.com/2025/01/08/steamos-expands-to-other-gaming-handhelds-with-the-lenovo-legion-go-s/
+
+
+Title: Acer’s new gaming handheld is ridiculously large
+Description: Acer unveiled two new gaming handhelds at CES 2025. The company clearly believes that bigger always means better, as it is pushing the physical limits of gaming handhelds with an enormous 10.95-inch display.
+Named the Nitro Blaze 11, the device comes with an AMD Ryzen 7 8840HS processor — a CPU originally designed for laptops — with a built-in AMD Radeon 780M graphics unit. It has 16GB of LPDDR5X RAM and can be configured with up to 2TB of internal storage.
+But what makes this device truly special is its size. It weighs more than 1kg (2.3 pounds) — it’s not only as big as the 11-inch iPad Air, it’s as heavy as two iPad Airs stacked together.
+Fortunately, the controllers on the sides of the device are detachable, like on the Nintendo Switch or the Lenovo Legion Go. You then get a tablet with an external controller, which seems like a more reasonable setup.
+This gaming handheld runs Windows 11 along with Acer’s own gaming hub, and packs a 55Wh battery. There are two USB-C ports (including one with USB 4 support), a USB Type-A port and a microSD slot. The screen supports resolutions up to 2560×1600 with a 120Hz refresh rate.
+Acer is also releasing a more reasonably sized gaming handheld, the Nitro Blaze 8, with an 8.8-inch 144Hz display. Other than the size of the device, technical specifications are identical for this smaller handheld, but the controllers can’t be detached on this one.
+Both devices will be available at some point during the second quarter of 2025 for $1,099 (Nitro Blaze 11) and $899 (Nitro Blaze 8).
+URL: https://techcrunch.com/2025/01/07/acers-new-gaming-handheld-is-ridiculously-large/
+
+
+Title: Roblox will now give users 25% more of its in-game currency if you buy Robux on its website
+Description: As scrutiny around Apple’s and Google’s app store fees ramps up around the world, Roblox is now offering users who buy its game currency, Robux, on the web and via gift cards 25% more than they would get if they purchased from an app store instead.
+In essence, the company is encouraging users to purchase Robux from the web to avoid Apple’s and Google’s in-app purchase fee markups.
+The company confirmed the move and said that it is looking for ways to provide more value to user and creator communities.
+“Apple and Google are valued partners. We are always looking for ways to pass on more value to our user and creator community while managing costs. Going forward, we are providing up to +25% more Robux for any customer that purchases Robux through the web, computer, or with gift cards,” a Roblox spokesperson told TechCrunch.
+In a Roblox developer forum post, Roblox specified that this is not a holiday offer and is a long-term change.
+Epic Games’ CEO Tim Sweeney, who has been fighting with Apple and Google over app store charges, applauded this move.
+“Awesome to see Roblox finally fighting the Apple tax. I hope that the current Epic v Apple contempt of court proceeding stops Apple’s ludicrous scare screens and junk fees so that all apps can send users to web-based payments and pass on the savings like this,” he said in a post on X.
+In August, Epic launched its Epic Games Store in the EU on iOS and on Android across the world. In Europe, companies are looking to launch alternative app stores on iOS, thanks to the Digital Markets Act (DMA). Meanwhile, startups like Appcharge are helping publishers sell their games outside of Apple’s and Google’s ecosystems.
+URL: https://techcrunch.com/2024/11/26/roblox-starts-offering-25-more-game-currency-for-web-purchases/
+
+
+Title: Roblox adds safety measures to ban kids under 13 from social spaces and other experiences
+Description: Throughout the years, several reports have accused Roblox, the popular gaming platform aimed at preteens, of lacking strict safety protocols for children, which exposes them to dangers such as grooming, explicit content, and violent or abusive material.
+In a significant update to its safety policy, Roblox plans to keep users under the age of 13 away from unrated experiences. It’ll also prevent access to social hangouts and experiences that use free-form 2D user creation, which both pose risks, as they include options for chatting with other players, who may use inappropriate language, as well as interactive experiences where users can draw or write within the game.
+The platform noted in a post to creators on Wednesday that, by default, kids aged 12 years old and younger will no longer be able to “play, search, and discover unrated experiences.” Roblox is also requiring creators to fill out a questionnaire if they want their experience to be available to kids under 13. Creators must ensure that their experience meets either “All Ages” or “9+” recommendations, which notably can still contain “mild violence, heavy unrealistic blood, and/or mild crude humor,” according to its support page. Gambling content, however, is off the table for kids under 13.
+Roblox says it’ll enforce these requirements starting next year. Creators must fill out the form by December 3. The questionnaire is located in the Creator Hub under the Creations tab. Then, choose “Select an Experience” and “Audience.”
+Additionally, users who are younger than 13 are banned from social hangouts, which is likely a response to ongoing concerns about safety within these experiences, which have been criticized for having significant oversight issues. Acknowledging this, one creator in the forum commented, “Kinda sad, but with the amount of … issues in some of these [social hangout] games, I totally understand this.”
+Younger users are also unable to access experiences that involve free-form 2D user creation, which enables players to replicate other users’ drawings without going through Roblox moderation. This will begin to take effect on November 18.
+Roblox also listed experiences that are suitable for this age group. These include role-playing experiences, where players can take on various roles — such as a teacher, police officer, or race car driver — or interact with items. Experiences that feature 3D assets approved by Roblox moderation are also allowed, so young kids can still build houses with blocks, design outfits, and short-form videos.
+URL: https://techcrunch.com/2024/11/07/roblox-adds-new-safety-measures-to-ban-kids-under-13-from-social-spaces/
+
+

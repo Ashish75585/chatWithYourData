@@ -1,0 +1,39 @@
+Title: Nvidia is helping humanoid robots learn through Apple Vision Pro instruction
+Description: Robotics have been a foundational element of Nvidia’s stratospheric growth in recent years. When the chip maker announced GR00T in March of last year, it was heralded as a watershed moment from humanoid robotics. Most of the category’s biggest names were available from launch, including 1X Technologies, Agility Robotics, Apptronik, Boston Dynamics, Figure AI, Fourier Intelligence, Sanctuary AI, and Unitree Robotics.
+At CES on Monday, CEO Jensen Huang unveiled another essential aspect of GR00T: Blueprint. The new modality is based around imitation learning, a fundamental aspect of teaching robots a new skill. It’s doubly important in the world of humanoids, whose designs are based on the one doing the teaching.
+Imitation learning is what it sounds like. A person performs an action and the robot follows suit. It’s an effective method of educating systems that are designed to automate existing tasks, like those in factories and warehouses, where the first several rounds of humanoids are being deployed.
+Teleoperation has a fundamental role to play in all of this. It can be used to teach robots remotely, instantly digitizing one’s actions through an approximation of a real-life environment.
+With GR00T Blueprint, users can create these actions by using Apple’s Vision Pro. The process is captured as a digital twin, which the robot can then repeatedly execute in simulation.
+URL: https://techcrunch.com/2025/01/06/nvidia-is-helping-humanoid-robots-learn-through-apple-vision-pro-instruction/
+
+
+Title: This pool cleaning company made a robot turtle to track water quality
+Description: Beatbot makes robotic pool cleaners. In fact, the company is showing off a new one with a docking station this week at CES 2025. What really caught our eye on the show floor, however, is RoboTurtle, because, well, it’s a robot that looks like a turtle.
+The turtle, sadly, seems to very much be in the concept stages, as the firm focuses on more commercial endeavors.
+ “The Robotic Turtle embodies our vision of leveraging Beatbot’s leading technology to address critical ecological challenges on a global scale,” says Beatbot exec, York Guo. “It is a partner to help safeguard communities and preserve the safest water levels for all creatures. This unique robot serves the planet for good alongside conservationists, scientists, and emergency responders.”
+The idea is to build a solar-powered robot that can navigate bodies of water, while monitoring their quality via onboard sensors. Beatbot claims that the decision to lean into biomimicry with the turtle design is a bid to, “minimize[e] disruption to surrounding ecosystems.”
+At some future date, such a system could be deployed to monitor conditions during oil spills, survey disaster damage, and monitor endangered species in their natural habitat.
+URL: https://techcrunch.com/2025/01/07/this-pool-cleaning-company-made-a-robot-turtle-to-track-water-quality/
+
+
+Title: Serve Robotics raises additional $80M as it scales sidewalk delivery robots
+Description: Nvidia and Uber-backed Serve Robotics has raised $80 million via a direct offering of 4.2 million shares of common stock. The fresh cash will help the company extend its runway through 2026 and scale its fleet from the 100 robots on the streets of Los Angeles today to the 2,000 Serve hopes to deploy by the end of 2025 in multiple U.S. cities.
+“We’re not taking more money to just burn through it in the next year,” Serve CFO Brian Read told TechCrunch. “This is the long-term coffer to help us as we get beyond these 2,000 robots.”
+The new capital, which came from unnamed institutional investors, comes in the wake of $86 million in gross proceeds that Serve had raised in December 2024 through a combination of a filed at-the-market facility and an exercise of warrants. The startup has raised a total of over $247 million in the past 12 months.
+Serve, which went public in April 2024 via a reverse merger, expects the $80 million offering to close on Tuesday. Serve wouldn’t say what it intends to use the cash for specifically, only noting that it would go toward working capital to build the business and deploy robots.
+Read did note that Serve intends to use its cash reserves for self-funding equipment investments that will help it eliminate the need for equipment financing and associated servicing costs.
+“I’ve been trying to get our cost of capital as low as possible, and the best way [previously] for us to do that was to finance our robots, which comes with interest costs and deposits and cash locked up and security interests on the hardware,” Read said. “We’ve moved past that now, so we get better cash flow. We have ownership of these robots now, so we’re really giving ourselves some more flexibility in our financial direction.”
+“This funding not only solidifies that approach from today, but also we are now positioning ourselves from what 2026 and 2027 is going to start to look like,” he added.
+Today, Serve has about 100 robots doing deliveries in Los Angeles for around 300 restaurants via Uber Eats and 7-Eleven. In October, the company began a trial in partnership with Wing in Dallas, combining sidewalk robots with drones for deliveries.
+Serve plans to put an additional 250 robots on the streets of Los Angeles in the first quarter of 2025, and have up to 2,000 bots in multiple U.S. cities by the end of next year through a contract with Uber Eats. Read noted that his company expects to be cash-flow positive from an operational standpoint once that fleet of 2,000 is at full utilization.
+URL: https://techcrunch.com/2025/01/07/serve-robotics-raises-additional-80m-as-it-scales-sidewalk-delivery-robots/
+
+
+Title: German Bionic’s new exoskeleton supports 80-pound lifts, revealed at CES 2025
+Description: At CES 2025, German Bionic announced the Apogee Ultra, a new robotic exoskeleton it claims is the “world’s most powerful.” What did the system do to earn such a lofty title? It offers up to 80 pounds of dynamic lift assistance. That means a payload of 70 pounds feels more like nine to 11 pounds to the lifter’s lower back.
+In addition to lift assistance, the Apogee Ultra also assists walks, making a 10-mile journey feel more like eight. The company is aiming for industries like baggage handling and construction, as well as those that require workers to be on their feet and walking great distances, such as nursing.
+Broadly speaking, the goal of robotic exoskeletons is augmenting human labor, rather than automating it out of existence. Effectively, employers can get more done with fewer employees when performing labor-intensive tasks.
+They also have the potential to lower injury rates. German Bionic claims, for example, that its exoskeletons have resulted in a 31% reduction in sick leave in the workplace.
+The company says the systems have been refined, courtesy of “vast amounts of high-quality, relevant data collected from thousands of users over countless hours of real-world application.”
+The exoskeleton also utilizes AI to better adapt to a wearer’s specific needs. The company promises to support the system through over-the-air updates going forward.
+URL: https://techcrunch.com/2025/01/07/german-bionics-new-exoskeleton-supports-80-pound-lifts-revealed-at-ces-2025/
