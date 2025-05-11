@@ -9,3 +9,4 @@ streamlit
 pysqlite3-binary
 tk
 chromadb
+protobuf==3.20.*
